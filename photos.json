@@ -1,4 +1,17 @@
 {
  "title": "Keepsake",
- "photos": []
+ "photos": [
+  {
+   "id": "mwxjydqd365dg",
+   "file": "photos/mwxjydqd365dg.jpg",
+   "thumb": "photos/thumbs/mwxjydqd365dg.jpg",
+   "w": 960,
+   "h": 1280,
+   "caption": "",
+   "takenAt": "2026-07-26",
+   "album": "",
+   "fav": false,
+   "addedAt": "2026-11-26T12:52:31.255Z"
+  }
+ ]
 }
